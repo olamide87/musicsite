@@ -39,3 +39,21 @@
     font: 15px;
 }
 
+.right-col{
+    float: right;
+    margin-right: 6%;
+    margin-top: 120px;
+    display: flex;
+    align-items: center;
+}
+
+.right-col p{
+    font-size: 18x;
+    color: #5f5f5f;
+    font-weight: 400;
+    margin-right: 15px;
+}
+#icon{
+    width: 80px;
+    cursor: pointer;
+}
